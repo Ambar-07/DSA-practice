@@ -4,10 +4,9 @@ Welcome to my C++ Data Structures and Algorithms repository! This repository con
 
 This repository contains my journey into mastering Data Structures and Algorithms using C++. The code here is part of my learning process, and I plan to continuously update this repository with new algorithms and data structures as I learn and implement them.
 
-##Data Structures
+## Data Structures
 Here are some of the data structures that i'll implemented so far:
-
-##Arrays
+Arrays
 Linked Lists
 Stacks
 Queues
