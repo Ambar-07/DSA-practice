@@ -6,20 +6,20 @@ This repository contains my journey into mastering Data Structures and Algorithm
 
 ## Data Structures
 Here are some of the data structures that i'll implemented so far:
-Arrays
-Linked Lists
-Stacks
-Queues
-Trees
-Graphs
-Hash Tables
-Heaps
-Algorithms
+-Arrays
+-Linked Lists
+-Stacks
+-Queues
+-Trees
+-Graphs
+-Hash Tables
+-Heaps
+-Algorithms
 
 ## Here are some of the algorithms I will implement:
-Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
-Searching Algorithms (Binary Search, Depth-First Search, Breadth-First Search, etc.)
-Dynamic Programming
-Greedy Algorithms
-Backtracking
-Divide and Conquer
+-Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
+-Searching Algorithms (Binary Search, Depth-First Search, Breadth-First Search, etc.)
+-Dynamic Programming
+-Greedy Algorithms
+-Backtracking
+-Divide and Conquer
