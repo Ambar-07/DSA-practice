@@ -1,4 +1,3 @@
-// Update the '_' in the code below
 #include <bits/stdc++.h>
 
 using namespace std;
